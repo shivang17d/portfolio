@@ -120,13 +120,13 @@ const skills = {
             color: "#439743",
           },
         },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
+//         {
+//           skillName: "Android",
+//           fontAwesomeClassname: "simple-icons:android",
+//           style: {
+//             color: "#3DDC84",
+//           },
+//         },
         {
           skillName: "Linux",
           fontAwesomeClassname: "simple-icons:linux",
