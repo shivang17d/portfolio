@@ -16,13 +16,13 @@ const greeting = {
   subTitle:
     "from Pune, India. I am a self-driven, quick starter, and passionate programmer.",
   resumeLink:
-  "https://github.com/shivangguptax/shivangguptax/files/7872679/Resume.5.pdf",
+  "https://github.com/shivangg17d/shivang17d/files/7872679/Resume.5.pdf",
   
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/shivangguptax",
+  github: "https://github.com/shivang17d",
   linkedin: "https://www.linkedin.com/in/shivangguptax",
   gmail: "shivangguptaxd@gmail.com",
   whatsapp: "https://wa.me/+918605143918",
@@ -193,7 +193,7 @@ const projects = {
     {
       id: "0",
       name: "Cricket Stadium Locator",
-      url: "https://shivangguptax.github.io/Cricket-Stadium-Locator/",
+      url: "https://shivang17d.github.io/Cricket-Stadium-Locator/",
       description:
         "Locating various cricket stadiums in India on Map using leaflet.js.",
       languages: [
@@ -214,7 +214,7 @@ const projects = {
     {
       id: "1",
       name: "GitHub Finder",
-      url: "https://shivangguptax.github.io/GithubFinder/",
+      url: "https://shivang17d.github.io/GithubFinder/",
       description:
         "Find any GitHub account stats by entering username.",
       languages: [
@@ -235,7 +235,7 @@ const projects = {
     {
       id: "2",
       name: "Music Player",
-      url: "https://shivangguptax.github.io/MusicPlayer/",
+      url: "https://shivang17d.github.io/MusicPlayer/",
       description:
         "Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife.",
       languages: [
@@ -256,7 +256,7 @@ const projects = {
     {
       id: "3",
       name: "English Dictionary",
-      url: "https://shivangguptax.github.io/Dictionary/",
+      url: "https://shivang17d.github.io/Dictionary/",
       description:
         "Increase your Vocabulary by using this dictionary.",
       languages: [
@@ -277,7 +277,7 @@ const projects = {
     {
       id: "4",
       name: "Portfolio Website",
-      url: "https://shivanggupta.herokuapp.com/",
+      url: "https://shivanggupta.vercel.app",
       description: "You are stalking it right now 😉",
       languages: [
         {
