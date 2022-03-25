@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "from Pune, India. I am a self-driven, quick starter, and passionate programmer.",
   resumeLink:
-  "https://github.com/shivangg17d/shivang17d/files/7872679/Resume.5.pdf",
+  "https://github.com/shivangguptax/shivangguptax/files/7872679/Resume.5.pdf",
   
 };
 
