@@ -50,15 +50,8 @@ export default function socialMedia() {
         <i className="fab fa-whatsapp"></i>
         <span></span>
       </a>
-      <a
-        href={socialMediaLinks.instagram}
-        className="icon-button instagram"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <i className="fab fa-instagram"></i>
-        <span></span>
-      </a>
+      
+     
     </div>
   );
 }
