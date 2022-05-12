@@ -236,27 +236,6 @@ const projects = {
     
      {
       id: "2",
-      name: "Voting App",
-      url: "https://shivang-votingapp.herokuapp.com/",
-      description:
-        "Full Stack Voting Web application",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "ReactJs",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
-     {
-      id: "3",
       name: "ResGen",
       url: "https://resgen1.netlify.app/",
       description:
@@ -281,7 +260,7 @@ const projects = {
     
     
     {
-      id: "4",
+      id: "3",
       name: "Cricket Stadium Locator",
       url: "https://shivang17d.github.io/Cricket-Stadium-Locator/",
       description:
@@ -302,7 +281,7 @@ const projects = {
       ],
     },
     {
-      id: "5",
+      id: "4",
       name: "GitHub Finder",
       url: "https://shivang17d.github.io/GithubFinder/",
       description:
@@ -323,7 +302,7 @@ const projects = {
       ],
     },
     {
-      id: "6",
+      id: "5",
       name: "Music Player",
       url: "https://shivang17d.github.io/MusicPlayer/",
       description:
@@ -344,7 +323,7 @@ const projects = {
       ],
     },
     {
-      id: "7",
+      id: "6",
       name: "English Dictionary",
       url: "https://shivang17d.github.io/Dictionary/",
       description:
@@ -365,7 +344,7 @@ const projects = {
       ],
     },
     {
-      id: "8",
+      id: "7",
       name: "Portfolio Website",
       url: "https://shivanggupta.vercel.app",
       description: "You are stalking it right now 😉",
