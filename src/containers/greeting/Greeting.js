@@ -8,6 +8,7 @@ import { style } from "glamor";
 import { contactPageData } from "../../portfolio.js";
 const ContactData = contactPageData.contactSection;
 
+
 export default function Greeting(props) {
   const theme = props.theme;
 
