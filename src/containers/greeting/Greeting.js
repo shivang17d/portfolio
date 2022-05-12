@@ -26,7 +26,7 @@ export default function Greeting(props) {
             <img
               src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
               alt=""
-              style={{ size: "20px" }} />
+              style={{ size: "20px" border-radius: 50%}} />
           </div>
           <div className="greeting-text-div">
             <div>
