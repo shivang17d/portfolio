@@ -86,7 +86,15 @@
   color: rgba(255, 255, 255, 1);
   box-shadow: 0 5px 15px #e4405f;
 }
+.twitter i {
+  background-color: #1da1f2;
+  transition: all 0.2s ease-in-out;
+}
 
+.twitter i:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px #1da1f2;
+}
 /* Media Query */
 @media (max-width: 768px) {
   .social-media-div {
