@@ -31,15 +31,17 @@ export default function socialMedia() {
         <span></span>
 
       </a>
-      {/* <a
-        href={socialMediaLinks.gitlab}
-        className="icon-button gitlab"
+
+       <a
+        href={socialMediaLinks.twitter}
+        className="icon-button twitter"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <i className="fab fa-gitlab"></i>
+        <i className="fab fa-twitter"></i>
         <span></span>
-      </a> */}
+      </a>
+    
       <a
         href={socialMediaLinks.linkedin}
         className="icon-button linkedin"
