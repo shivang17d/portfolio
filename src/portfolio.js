@@ -185,7 +185,7 @@ const projectsHeader = {
 
 const contactPageData = {
   contactSection: {
-    profile_image_path: "profile.png",
+    profile_image_path: "profile1.jpg",
   },
 };
 
