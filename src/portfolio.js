@@ -191,8 +191,97 @@ const contactPageData = {
 
 const projects = {
   data: [
-    {
+     {
       id: "0",
+      name: "CodeVilla",
+      url: "https://codevilla.herokuapp.com/",
+      description:
+        "Realtime Code-Editor",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "ReactJs",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+     {
+      id: "1",
+      name: "Voting App",
+      url: "https://shivang-votingapp.herokuapp.com/",
+      description:
+        "Full Stack Voting Web application",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "ReactJs",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    
+     {
+      id: "2",
+      name: "Voting App",
+      url: "https://shivang-votingapp.herokuapp.com/",
+      description:
+        "Full Stack Voting Web application",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "ReactJs",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+     {
+      id: "3",
+      name: "ResGen",
+      url: "https://resgen1.netlify.app/",
+      description:
+        "Online Resume Generator",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "ReactJs",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    
+    
+    
+    
+    {
+      id: "4",
       name: "Cricket Stadium Locator",
       url: "https://shivang17d.github.io/Cricket-Stadium-Locator/",
       description:
@@ -213,7 +302,7 @@ const projects = {
       ],
     },
     {
-      id: "1",
+      id: "5",
       name: "GitHub Finder",
       url: "https://shivang17d.github.io/GithubFinder/",
       description:
@@ -234,7 +323,7 @@ const projects = {
       ],
     },
     {
-      id: "2",
+      id: "6",
       name: "Music Player",
       url: "https://shivang17d.github.io/MusicPlayer/",
       description:
@@ -255,7 +344,7 @@ const projects = {
       ],
     },
     {
-      id: "3",
+      id: "7",
       name: "English Dictionary",
       url: "https://shivang17d.github.io/Dictionary/",
       description:
@@ -276,7 +365,7 @@ const projects = {
       ],
     },
     {
-      id: "4",
+      id: "8",
       name: "Portfolio Website",
       url: "https://shivanggupta.vercel.app",
       description: "You are stalking it right now 😉",
