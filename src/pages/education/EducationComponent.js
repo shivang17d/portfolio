@@ -26,7 +26,7 @@ function Education(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-               
+               Education is the most powerful weapon which we can use to change the world.
               </h2>
              
             </div>
