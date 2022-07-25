@@ -199,33 +199,8 @@ const projects = {
         "Realtime Code-Editor",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "ReactJs",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
-     {
-      id: "1",
-      name: "Voting App",
-      url: "https://shivang-votingapp.herokuapp.com/",
-      description:
-        "Full Stack Voting Web application",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
         },
         {
           name: "ReactJs",
@@ -234,8 +209,9 @@ const projects = {
       ],
     },
     
-     {
-      id: "2",
+    
+    {
+      id: "1",
       name: "Blogify Website",
       url: "https://shivang-blogify.netlify.app/",
       description:
@@ -256,6 +232,31 @@ const projects = {
         
       ],
     },
+    
+    
+     {
+      id: "2",
+      name: "Voting App",
+      url: "https://shivang-votingapp.herokuapp.com/",
+      description:
+        "Full Stack Voting Web application",
+      languages: [
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "ReactJs",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    
+     
     
     
     
