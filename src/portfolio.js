@@ -236,23 +236,24 @@ const projects = {
     
      {
       id: "2",
-      name: "ResGen",
-      url: "https://resgen1.netlify.app/",
+      name: "Blogify Website",
+      url: "https://shivang-blogify.netlify.app/",
       description:
-        "Online Resume Generator",
+        "Full Stack Blogging Website",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
         {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
         },
         {
           name: "ReactJs",
           iconifyClass: "logos-react",
         },
+        
       ],
     },
     
