@@ -194,7 +194,7 @@ const projects = {
      {
       id: "0",
       name: "CodeVilla",
-      url: "https://codevilla.herokuapp.com/",
+      url: "https://codevilla.onrender.com/",
       description:
         "Realtime Code-Editor",
       languages: [
@@ -236,18 +236,14 @@ const projects = {
     
      {
       id: "2",
-      name: "Voting App",
-      url: "https://shivang-votingapp.herokuapp.com/",
+      name: "FundRaiser",
+      url: "https://fundraiser-web3.netlify.app/",
       description:
-        "Full Stack Voting Web application",
+        "This Project is a Web3 based FundRaiser React application which allows users to Fund any cause listed on this application.",
       languages: [
         {
-          name: "MongoDB",
-          iconifyClass: "logos-mongodb",
-        },
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
+          name: "Solidity",
+          iconifyClass: "logos-solidity",
         },
         {
           name: "ReactJs",
