@@ -26,7 +26,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/shivangguptax",
   gmail: "shivangguptaxd@gmail.com",
   whatsapp: "https://wa.me/+918605143918",
-  instagram: "https://www.instagram.com/_shivang.gupta_/",
+  instagram: "https://www.instagram.com/shivang17d/",
   twitter: "https://twitter.com/shivang17d/",
 };
 
