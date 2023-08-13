@@ -23,9 +23,9 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/shivang17d",
-  linkedin: "https://www.linkedin.com/in/shivangguptax",
-  gmail: "shivangguptaxd@gmail.com",
-  whatsapp: "https://wa.me/+918605143918",
+  linkedin: "https://www.linkedin.com/in/shivang17d",
+  gmail: "shivang17d@gmail.com",
+  whatsapp: "https://wa.me/+917666463527",
   instagram: "https://www.instagram.com/shivang17d/",
   twitter: "https://twitter.com/shivang17d/",
 };
